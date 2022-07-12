@@ -17,4 +17,4 @@ sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generat
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # 设置密码为为shen
-sed -i 's/CYXluq4wUazHjmCDBCqXF/VyIPHF0JBfS7Yye/g' package/lean/default-settings/files/zzz-default-settings
+sed -i 's/CYXluq4wUazHjmCDBCqXF/kYk1//VyIPHF0JBfS7Yye/g' package/lean/default-settings/files/zzz-default-settings
